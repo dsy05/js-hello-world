@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("10+30=40", "wow", 'what am i doing', '"to be or not to be"', 'hola, world!')
 
 /*  
 Next, PLAY! 
